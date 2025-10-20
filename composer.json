@@ -1,0 +1,20 @@
+{
+  "name": "community-store-listmonk-subscribing",
+  "description": "Integrates Community Store orders with Listmonk mailing lists.",
+  "type": "concrete5-package",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "cahueya design",
+      "email": "info@cahueya.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.1"
+  },
+  "extra": {
+    "concrete5": {
+      "package-handle": "community_store_listmonk_subscribing"
+    }
+  }
+}
